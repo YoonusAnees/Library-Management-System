@@ -1,0 +1,16 @@
+Customer Name: Yoonus
+Quotation Details:
+Book ID: 2000
+Book Name: The Harry Potter
+Book Price: 3400
+Discount: 1360
+Total Price after Discount: 2040 Rupees
+-----------------------------
+Book ID: 2002
+Book Name: The Oath
+Book Price: 4500
+Discount: 1800
+Total Price after Discount: 2700 Rupees
+-----------------------------
+Time: 20:30:35
+Date: Jan  7 2024

@@ -1,0 +1,11 @@
+Hello Yoonus
+The Harry Potter has been ordered 
+Discount Price : 2040
+----------------------------------------------
+The Oath has been ordered 
+Discount Price : 2700
+----------------------------------------------
+Hello Yoonus
+The Harry Potter has been ordered 
+Discount Price : 0
+----------------------------------------------
