@@ -1,7 +1,3 @@
-Here's an example of how you could write the README for your project on GitHub:
-
----
-
 # Library Management System for Bookshop
 
 ## Description
